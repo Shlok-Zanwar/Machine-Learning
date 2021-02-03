@@ -69,6 +69,14 @@ Templates and implementation of all the Machine-Learning models learnt in [this]
   - Hierarchical Clustering
     - [Template / Implementation](https://github.com/Shlok-Zanwar/Machine-Learning/blob/main/Clustering/hierarchical_clustering.ipynb)
     
+## [Association Rule Learning](https://github.com/Shlok-Zanwar/Machine-Learning/tree/main/Association%20Rule%20Learning)
+
+  - Apriori
+    - [Template / Implementation](https://github.com/Shlok-Zanwar/Machine-Learning/blob/main/Association%20Rule%20Learning/apriori.ipynb)
+    
+  - Eclat
+    - [Template / Implementation](https://github.com/Shlok-Zanwar/Machine-Learning/blob/main/Association%20Rule%20Learning/eclat.ipynb)
+    
     
     
     
