@@ -86,6 +86,38 @@ Templates and implementation of all the Machine-Learning models learnt in [this]
     
   - Thompson Sampling
     - [Template / Implementation](https://github.com/Shlok-Zanwar/Machine-Learning/blob/main/Reinforcement%20Learning/thompson_sampling.ipynb)
+
+
+## [Natural Language Processing (NLP)](https://github.com/Shlok-Zanwar/Machine-Learning/tree/main/NLP)
+
+  - Natural Language Processing
+    - [Template / Implementation](https://github.com/Shlok-Zanwar/Machine-Learning/blob/main/NLP/natural_language_processing.ipynb)
+
+
+
+## [Artificial Neural Networks (ANN)](https://github.com/Shlok-Zanwar/Machine-Learning/tree/main/Artificial%20Neural%20Networks)
+
+  - Artificial Neural Networks
+    - [Template / Implementation](https://github.com/Shlok-Zanwar/Machine-Learning/blob/main/Artificial%20Neural%20Networks/artificial_neural_network.ipynb)
+
+
+## [Convolutional Neural Network (CNN)](https://github.com/Shlok-Zanwar/Machine-Learning/tree/main/CNN)
+
+  - Convolutional Neural Network
+    - [Template / Implementation](https://github.com/Shlok-Zanwar/Machine-Learning/blob/main/CNN/convolutional_neural_network.ipynb)
+
+
+## [Model Selection](https://github.com/Shlok-Zanwar/Machine-Learning/tree/main/Model%20Selection)
+
+  - Grid Search
+    - [Template / Implementation](https://github.com/Shlok-Zanwar/Machine-Learning/blob/main/Model%20Selection/grid_search.ipynb)
+
+  - K Fold Cross Validation
+    - [Template / Implementation](https://github.com/Shlok-Zanwar/Machine-Learning/blob/main/Model%20Selection/k_fold_cross_validation.ipynb)
+
+## [XGBoost](https://github.com/Shlok-Zanwar/Machine-Learning/tree/main/XGBoost)
+  - XGBoost
+    - [Template / Implementation](https://github.com/Shlok-Zanwar/Machine-Learning/blob/main/XGBoost/xg_boost.ipynb)
     
     
     
